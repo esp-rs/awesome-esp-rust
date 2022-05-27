@@ -25,6 +25,9 @@ A curated list of awesome resouces for development in Rust language for ESP32, E
 * [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - Temperature logger with STD (tags: WiFi, ESP32-C3, STD)
 * [rust-esp32-std-demo](https://github.com/ivmarkov/rust-esp32-std-demo) - Demo containing many supported features (tags: WiFi, MQTT, SPI, ESP32, ESP32-S2, ESP32-S3, ESP32-C3, STD)
 
+## Open Hardware with ESP
+
+* [esp-rust-board](https://github.com/esp-rs/esp-rust-board) - Open Hardware board with ESP32-C3 with KiCad compatible with [Adafruit Feather](https://learn.adafruit.com/adafruit-feather/feather-specification) specification, includes design files for creating own Wings (tags: ESP32-C3, KiCad, BOM)
 
 ## Support tools
 
