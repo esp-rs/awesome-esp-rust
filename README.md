@@ -2,7 +2,16 @@
 
 A curated list of awesome resouces for development in Rust language for ESP32, ESP32-S2, ESP32-S3 and ESP32-C3.
 
+## Trainings
+
+* [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/) (tags: WiFi, MQTT, I2C, ESP32, STD)
+
 ## Templates
+
+*Templates for generating projects*
+
+* [esp-idf-template](https://github.com/esp-rs/esp-idf-template) - Templated for `cargo-generate` for projects utilizing ESP-IDF (tags: WiFi, ESP32, ESP32-S2, ESP32-S3, ESP32-C3, STD)
+* [esp-template](https://github.com/esp-rs/esp-template) - Template for `cargo-generate` for projects using Bare metal approach (tags: Experimental, WiFI, ESP32, ESP32-C3, no_std)
 
 ## Projects
 
@@ -15,3 +24,12 @@ A curated list of awesome resouces for development in Rust language for ESP32, E
 
 * [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - Temperature logger with STD (tags: WiFi, ESP32-C3, STD)
 * [rust-esp32-std-demo](https://github.com/ivmarkov/rust-esp32-std-demo) - Demo containing many supported features (tags: WiFi, MQTT, SPI, ESP32, ESP32-S2, ESP32-S3, ESP32-C3, STD)
+
+
+## Support tools
+
+*Tools which makes development with Rust for ESP32 easier*
+
+* [espflash](https://github.com/esp-rs/espflash) - Flash and monitor ESP chip
+* [esp-web-flash-server](https://github.com/bjoernQ/esp-web-flash-server) - WebSocker server for flashing from Dev Container using web browser
+* [wokwi-server](https://github.com/MabezDev/wokwi-server) - WebSocket server for running simulation in Wokwi from Dev Container using web browser
