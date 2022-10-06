@@ -58,6 +58,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
 - [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of simple game for ESP32.
 - [ps2keyboard-esp32c3](https://github.com/bjoernQ/ps2keyboard-esp32c3) - PS/2 keyboard implementation for ESP32-C3.
+- [esp32c3-ota-experiment](https://github.com/bjoernQ/esp32c3-ota-experiment) - ESP32-C3 Bare Metal OTA Experiment.
 
 ## License
 
