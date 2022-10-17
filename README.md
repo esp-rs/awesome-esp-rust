@@ -53,6 +53,7 @@ You can usually find community members (including some employees of Espressif) i
 - [rust4mch](https://github.com/jhaand/rust4mch) - Example to run Rust code on the MCH2022 badge.
 - [rustzx-esp32](https://github.com/georgik/rustzx-esp32) - ZX Spectrum emulator based on RustZX project.
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
+- [twatch-idf-rs](https://github.com/pyaillet/twatch-idf-rs) - Experimental firmware for the Lilygo T-Watch
 
 ### `no_std`
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
