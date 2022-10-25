@@ -26,6 +26,7 @@ You can usually find community members (including some employees of Espressif) i
 - [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
+- [Getting started with esp-hal](https://bjoernq.github.io/esp-hal-get-started/) - Getting started with bare-metal esp-hal
 
 ## Tools
 
