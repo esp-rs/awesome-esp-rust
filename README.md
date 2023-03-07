@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of resouces for development in the Rust programming language for ESP32, ESP32-C3, ESP32-S2, and ESP32-S3.
+> A curated list of resouces for development in the Rust programming language for ESP32, ESP32-C2/C3/C6, and ESP32-S2/S3.
 
 ## Table of Contents
 
@@ -12,8 +12,8 @@
 - [Templates](#templates)
 - [Open Hardware](#open-hardware)
 - [Projects](#projects)
-    - [`std`](#std)
-    - [`no_std`](#no_std)
+  - [`std`](#std)
+  - [`no_std`](#no_std)
 - [License](#license)
 
 ## Community
@@ -22,10 +22,21 @@ You can usually find community members (including some employees of Espressif) i
 
 ## Books, Blogs, and Training Materials
 
-- [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
-- [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
-- [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
-- [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
+- [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
+- [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/espressif-trainings/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://esp-rs.github.io/espressif-trainings/).
+- [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
+- [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
+- [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
+  - [(1) モデル化](https://zenn.dev/tana_ash/articles/balance-robot-modern-1) (Modelling)
+  - [(2) 直立制御](https://zenn.dev/tana_ash/articles/balance-robot-modern-2) (Upright Control)
+  - [(3) 遠隔操縦](https://zenn.dev/tana_ash/articles/balance-robot-modern-3) (Remote Control)
+- [JP] ESP32 で std な Rust 開発入門
+  - [その 1 環境構築](https://lang-ship.com/blog/work/esp32-std-rust-1/) (Part 1: Building the environment)
+  - [その 2 L チカ](https://lang-ship.com/blog/work/esp32-std-rust-2/) (Part 2: Blink an LED)
+
+## Video Courses
+
+- [EN] [Rust on ESP32-C3](https://www.youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a)
 
 ## Tools
 
@@ -47,6 +58,7 @@ You can usually find community members (including some employees of Espressif) i
 ## Projects
 
 ### `std`
+
 - [anemometer](https://github.com/taunusflieger/anemometer) - Rust based anemometer incl. OTA and GPS based calibration process.
 - [bluedroid](https://github.com/pulse-loop/bluedroid) - Safe wrapper for the Bluedroid Bluetooth stack.
 - [esp-clock](https://github.com/playfulFence/esp-clock) - Clock with environment stats. [Wokwi project](https://wokwi.com/projects/342312626601067091)
@@ -61,6 +73,7 @@ You can usually find community members (including some employees of Espressif) i
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
 
 ### `no_std`
+
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
 - [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of simple game for ESP32.
 - [ps2keyboard-esp32c3](https://github.com/bjoernQ/ps2keyboard-esp32c3) - PS/2 keyboard implementation for ESP32-C3.
