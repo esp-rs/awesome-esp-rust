@@ -23,7 +23,7 @@ You can usually find community members (including some employees of Espressif) i
 ## Books, Blogs, and Training Materials
 
 - [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
-- [EN] [Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
+- [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/espressif-trainings/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://esp-rs.github.io/espressif-trainings/).
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
 - [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
