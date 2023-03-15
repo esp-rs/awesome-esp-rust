@@ -38,6 +38,7 @@ You can usually find community members (including some employees of Espressif) i
 ## Video Courses
 
 - [EN] [Rust on ESP32-C3](https://www.youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a)
+- [EN] [Andrei Litvin / @embedded-rust](https://www.youtube.com/@embedded-rust/videos)
 
 ## Tools
 
