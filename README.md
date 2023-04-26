@@ -27,6 +27,9 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/espressif-trainings/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
+- [EN] Making a Dino Light with the ESP32 and WS2812
+  - [Making a Dino Light with the ESP32 and WS2812](https://nereux.blog/posts/esp32-ws2812-dino-light/)
+  - [Making a Dino Light with the ESP32 and WS2812 Pt. 2](https://nereux.blog/posts/esp32-ws2812-dino-light-2/)
 - [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
   - [(1) モデル化](https://zenn.dev/tana_ash/articles/balance-robot-modern-1) (Modelling)
   - [(2) 直立制御](https://zenn.dev/tana_ash/articles/balance-robot-modern-2) (Upright Control)
@@ -82,6 +85,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32c3-ota-experiment](https://github.com/bjoernQ/esp32c3-ota-experiment) - ESP32-C3 Bare Metal OTA Experiment.
 - [SlimeVR-Rust/firmware](https://github.com/SlimeVR/SlimeVR-Rust/tree/main/firmware) - Async & no_std rust firmware for SlimeVR Full Body Tracking.
 - [esp32s3-box-examples](https://github.com/sambenko/esp32s3-box-examples) - Various graphic examples for ESP32-S3 Box.
+- [nostd-wifi-lamp](https://github.com/Nereuxofficial/nostd-wifi-lamp) - A Wi-Fi Lamp built with an ESP32 and Neopixel Lights controllable via Wi-Fi
 
 ## License
 
