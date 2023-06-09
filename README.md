@@ -1,9 +1,11 @@
+<!-- omit in toc -->
 # Awesome ESP Rust
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curated list of resouces for development in the Rust programming language for ESP32, ESP32-C2/C3/C6, and ESP32-S2/S3.
 
+<!-- omit in toc -->
 ## Table of Contents
 
 - [Community](#community)
@@ -30,6 +32,7 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] Making a Dino Light with the ESP32 and WS2812
   - [Making a Dino Light with the ESP32 and WS2812](https://nereux.blog/posts/esp32-ws2812-dino-light/)
   - [Making a Dino Light with the ESP32 and WS2812 Pt. 2](https://nereux.blog/posts/esp32-ws2812-dino-light-2/)
+- [EN] [ESP32 with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/esp32c3-embedded-rust-hal) - Blog series about learning Rust at the HAL level with the ESP32-C3.
 - [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
   - [(1) モデル化](https://zenn.dev/tana_ash/articles/balance-robot-modern-1) (Modelling)
   - [(2) 直立制御](https://zenn.dev/tana_ash/articles/balance-robot-modern-2) (Upright Control)
