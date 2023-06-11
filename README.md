@@ -87,6 +87,7 @@ You can usually find community members (including some employees of Espressif) i
 - [SlimeVR-Rust/firmware](https://github.com/SlimeVR/SlimeVR-Rust/tree/main/firmware) - Async & no_std rust firmware for SlimeVR Full Body Tracking.
 - [esp32s3-box-examples](https://github.com/sambenko/esp32s3-box-examples) - Various graphic examples for ESP32-S3 Box.
 - [nostd-wifi-lamp](https://github.com/Nereuxofficial/nostd-wifi-lamp) - A Wi-Fi Lamp built with an ESP32 and Neopixel Lights controllable via Wi-Fi
+- [plantineers-edge](https://github.com/plantineers/edge) - Firmware for edge devices for an Open Source Plant Monitoring solution using esp-now
 
 ## License
 
