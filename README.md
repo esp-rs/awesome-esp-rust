@@ -24,7 +24,7 @@ You can usually find community members (including some employees of Espressif) i
 ## Books, Blogs, and Training Materials
 
 - [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
-- [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/espressif-trainings/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
+- [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
 - [EN] Making a Dino Light with the ESP32 and WS2812
@@ -87,6 +87,7 @@ You can usually find community members (including some employees of Espressif) i
 - [SlimeVR-Rust/firmware](https://github.com/SlimeVR/SlimeVR-Rust/tree/main/firmware) - Async & no_std rust firmware for SlimeVR Full Body Tracking.
 - [esp32s3-box-examples](https://github.com/sambenko/esp32s3-box-examples) - Various graphic examples for ESP32-S3 Box.
 - [nostd-wifi-lamp](https://github.com/Nereuxofficial/nostd-wifi-lamp) - A Wi-Fi Lamp built with an ESP32 and Neopixel Lights controllable via Wi-Fi
+- [plantineers-edge](https://github.com/plantineers/edge) - Firmware for edge devices for an Open Source Plant Monitoring solution using esp-now
 
 ## License
 
