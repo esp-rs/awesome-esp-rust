@@ -48,6 +48,7 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [Rust embedded at Espressif @ Copenhagen Rust Community](https://www.youtube.com/watch?v=gdmUhzJfgzk)
 - [EN] [Embedded Rust on ESP32 - Juraj Michálek - Rust Linz November 2022](https://www.youtube.com/watch?v=0PPPdqoDBQs)
 
+[EN] [Rust on Espressif chips - Scott Mabin](https://www.youtube.com/watch?v=qeEmJ_-6fPg)
 ## Tools
 
 - [espup](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
