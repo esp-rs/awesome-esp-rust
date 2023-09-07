@@ -91,6 +91,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32s3-box-examples](https://github.com/sambenko/esp32s3-box-examples) - Various graphic examples for ESP32-S3 Box.
 - [nostd-wifi-lamp](https://github.com/Nereuxofficial/nostd-wifi-lamp) - A Wi-Fi Lamp built with an ESP32 and Neopixel Lights controllable via Wi-Fi
 - [plantineers-edge](https://github.com/plantineers/edge) - Firmware for edge devices for an Open Source Plant Monitoring solution using esp-now
+- [esp32c3-no-std-async-mqtt-demo](https://github.com/JurajSadel/esp32c3-no-std-async-mqtt-demo) - ESP32-C3 application that measures temperature (using BMP180) and sends the results with MQTT via WiFi - everything is done asynchronously. Also available for [ESP32](https://github.com/JurajSadel/esp32-no-std-async-mqtt-demo) and [ESP32-S3](https://github.com/JurajSadel/esp32s3-no-std-async-mqtt-demo)
 
 ## License
 
