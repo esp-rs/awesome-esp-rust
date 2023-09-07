@@ -10,7 +10,7 @@
 
 - [Community](#community)
 - [Books, Blogs, and Training Materials](#books-blogs-and-training-materials)
-- [Video Courses](#video-courses)
+- [Video Courses and Talks](#video-courses-and-talks)
 - [Tools](#tools)
 - [Templates](#templates)
 - [Open Hardware](#open-hardware)
@@ -41,10 +41,12 @@ You can usually find community members (including some employees of Espressif) i
   - [その 1 環境構築](https://lang-ship.com/blog/work/esp32-std-rust-1/) (Part 1: Building the environment)
   - [その 2 L チカ](https://lang-ship.com/blog/work/esp32-std-rust-2/) (Part 2: Blink an LED)
 
-## Video Courses
+## Video Courses and Talks
 
 - [EN] [Rust on ESP32-C3](https://www.youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a)
 - [EN] [Andrei Litvin / @embedded-rust](https://www.youtube.com/@embedded-rust/videos)
+- [EN] [Rust embedded at Espressif @ Copenhagen Rust Community](https://www.youtube.com/watch?v=gdmUhzJfgzk)
+- [EN] [Embedded Rust on ESP32 - Juraj Michálek - Rust Linz November 2022](https://www.youtube.com/watch?v=0PPPdqoDBQs)
 
 ## Tools
 
