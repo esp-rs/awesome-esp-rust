@@ -77,6 +77,7 @@ You can usually find community members (including some employees of Espressif) i
 - [gateway-rs](https://github.com/OpenIoTHub/gateway-rs) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet(like [frp](https://github.com/fatedier/frp) but running on ESP32).
 - [mch2022-rust-app](https://github.com/p2mate/mch2022-rust-app) - Example that shows a nice rust screensaver in MCH2022 badge.
 - [OFMon](https://github.com/arashsm79/OFMon) - Offline-first smart energy monitor using littlefs, Rust, ESP32, and Thingsboard. [See details](https://moslehian.com/posts/2022/3-ofmon/).
+- [OxidESPark](https://gitlab.com/cyril-marpaud/oxide-spark) - Rust library for the Rust ESP Board that uses the ESP-IDF framework and provides tools to easily build applications that interact with the physical world.
 - [rust-esp32-std-demo](https://github.com/ivmarkov/rust-esp32-std-demo) - A demo `std` binary crate for the ESP32[XX] and [ESP-IDF](https://github.com/espressif/esp-idf), which connects to WiFi, Ethernet, drives a small HTTP server and draws on a LED screen.
 - [rust4mch](https://github.com/jhaand/rust4mch) - Example to run Rust code on the MCH2022 badge.
 - [rustzx-esp32](https://github.com/georgik/rustzx-esp32) - ZX Spectrum emulator based on RustZX project.
