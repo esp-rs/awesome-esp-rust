@@ -74,6 +74,7 @@ You can usually find community members (including some employees of Espressif) i
 - [anemometer](https://github.com/taunusflieger/anemometer) - Rust based anemometer incl. OTA and GPS based calibration process.
 - [bluedroid](https://github.com/pulse-loop/bluedroid) - Safe wrapper for the Bluedroid Bluetooth stack.
 - [esp-clock](https://github.com/playfulFence/esp-clock) - Clock with environment stats. [Wokwi project](https://wokwi.com/projects/357451677483992065)
+- [esp32-idf-nmea-example](https://github.com/georgik/esp32-idf-nmea-example) - Example of integration ESP-IDF application with Rust code as component.
 - [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - MQTT temperature logger running on ESP32-C3.
 - [gateway-rs](https://github.com/OpenIoTHub/gateway-rs) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet(like [frp](https://github.com/fatedier/frp) but running on ESP32).
 - [mch2022-rust-app](https://github.com/p2mate/mch2022-rust-app) - Example that shows a nice rust screensaver in MCH2022 badge.
@@ -97,6 +98,8 @@ You can usually find community members (including some employees of Espressif) i
 - [nostd-wifi-lamp](https://github.com/Nereuxofficial/nostd-wifi-lamp) - A Wi-Fi Lamp built with an ESP32 and Neopixel Lights controllable via Wi-Fi
 - [plantineers-edge](https://github.com/plantineers/edge) - Firmware for edge devices for an Open Source Plant Monitoring solution using esp-now
 - [esp32c3-no-std-async-mqtt-demo](https://github.com/JurajSadel/esp32c3-no-std-async-mqtt-demo) - ESP32-C3 application that measures temperature (using BMP180) and sends the results with MQTT via WiFi - everything is done asynchronously. Also available for [ESP32](https://github.com/JurajSadel/esp32-no-std-async-mqtt-demo) and [ESP32-S3](https://github.com/JurajSadel/esp32s3-no-std-async-mqtt-demo)
+- [esp32-rust-lilygo-t5-epaper](https://github.com/georgik/esp32-rust-lilygo-t5-epaper) - ESP32 LilyGo T5 ePaper with WiFi
+- [esp32-buddy-rs](https://github.com/georgik/esp32-buddy-rs) - Bare metal Rust examples for ESP-Buddy board
 
 ## License
 
