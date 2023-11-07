@@ -73,6 +73,7 @@ You can usually find community members (including some employees of Espressif) i
 
 - [anemometer](https://github.com/taunusflieger/anemometer) - Rust based anemometer incl. OTA and GPS based calibration process.
 - [bluedroid](https://github.com/pulse-loop/bluedroid) - Safe wrapper for the Bluedroid Bluetooth stack.
+- [dephy-esp32c3-rust-boilerplate](https://github.com/dephy-io/dephy-esp32c3-rust-boilerplate) - A `std` ESP32C3 application boilerplate on production with `tokio` for `async` support and examples for IO, Wi-Fi provisionning, eFuse, GPIO, I2C, HTTP, BLE advertising, etc.
 - [esp-clock](https://github.com/playfulFence/esp-clock) - Clock with environment stats. [Wokwi project](https://wokwi.com/projects/357451677483992065)
 - [esp32-idf-nmea-example](https://github.com/georgik/esp32-idf-nmea-example) - Example of integration ESP-IDF application with Rust code as component.
 - [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - MQTT temperature logger running on ESP32-C3.
