@@ -50,7 +50,7 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [Embedded Rust on ESP32 - Juraj Michálek - Rust Linz November 2022](https://www.youtube.com/watch?v=0PPPdqoDBQs)
 - [EN] [Rust on Espressif chips - Scott Mabin - DevCon22](https://www.youtube.com/watch?v=qeEmJ_-6fPg)
 - [EN] [Rust Bare-metal and Async - Scott Mabin, Juraj Sadel - DevCon23](https://www.youtube.com/watch?v=QPp4WEjx5jU)
-- [EN] [Rust on ESP32 - Video series live coding esp32 examples in Rust](https://www.youtube.com/watch?v=5eFlZVtZqdY&list=PL0U7YUX2VnBFbwTi96wUB1nZzPVN3HzgS)
+- [EN] [Rust on ESP32 - Video series live coding esp32 examples in Rust](https://www.youtube.com/playlist?list=PL0U7YUX2VnBFbwTi96wUB1nZzPVN3HzgS)
 ## Tools
 
 - [espup](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
