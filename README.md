@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of resouces for development in the Rust programming language for ESP32, ESP32-C2/C3/C6, and ESP32-S2/S3.
+> A curated list of resouces for development in the Rust programming language for ESP32, ESP32-C2/C3/C6, ESP32-H2, and ESP32-S2/S3.
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -26,7 +26,8 @@ You can usually find community members (including some employees of Espressif) i
 ## Books, Blogs, and Training Materials
 
 - [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
-- [EN] [Embedded Rust on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
+- [EN] [Embedded Rust (std) on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
+- [EN] [Embedded Rust (no_std) on Espressif](https://esp-rs.github.io/no_std-training/) - Training for Rust using `no_std` approach development on ESP32-C3.
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
 - [EN] Making a Dino Light with the ESP32 and WS2812
