@@ -90,6 +90,7 @@ You can usually find community members (including some employees of Espressif) i
 - [self-balancing robot](https://github.com/tana/atom-motion-balance) - Self-balancing robot using Atom Matrix and Atom Motion. [See details](https://zenn-dev.translate.goog/tana_ash/articles/5a458538cd9204?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
 - [twatch-idf-rs](https://github.com/pyaillet/twatch-idf-rs) - Experimental firmware for the Lilygo T-Watch
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
+- [esp32cam-rs](https://github.com/Kezii/esp32cam_rs) - Examples of Rust on ESP32-CAM, including a fully-featured Telegram bot capable of taking pictures.
 
 ### `no_std`
 
