@@ -106,6 +106,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32c3-no-std-async-mqtt-demo](https://github.com/JurajSadel/esp32c3-no-std-async-mqtt-demo) - ESP32-C3 application that measures temperature (using BMP180) and sends the results with MQTT via WiFi - everything is done asynchronously. Also available for [ESP32](https://github.com/JurajSadel/esp32-no-std-async-mqtt-demo) and [ESP32-S3](https://github.com/JurajSadel/esp32s3-no-std-async-mqtt-demo)
 - [esp32-rust-lilygo-t5-epaper](https://github.com/georgik/esp32-rust-lilygo-t5-epaper) - ESP32 LilyGo T5 ePaper with WiFi
 - [esp32-buddy-rs](https://github.com/georgik/esp32-buddy-rs) - Bare metal Rust examples for ESP-Buddy board
+- [bradipograph](https://github.com/jneem/bradipograph/) - A sloth-like drawing robot.
 
 ## License
 
