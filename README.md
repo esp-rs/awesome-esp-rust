@@ -79,6 +79,7 @@ You can usually find community members (including some employees of Espressif) i
 - [dephy-esp32c3-rust-boilerplate](https://github.com/dephy-io/dephy-esp32c3-rust-boilerplate) - A `std` ESP32-C3 application boilerplate on production with `tokio` for `async` support and examples for IO, Wi-Fi provisioning, eFuse, GPIO, I2C, HTTP, BLE advertising, etc.
 - [esp-clock](https://github.com/playfulFence/esp-clock) - Clock with environment stats. [Wokwi project](https://wokwi.com/projects/357451677483992065)
 - [esp32-idf-nmea-example](https://github.com/georgik/esp32-idf-nmea-example) - Example of integration ESP-IDF application with Rust code as component.
+- [esp32-s3-rust-axum-example](https://github.com/aedm/esp32-s3-rust-axum-example) - Example of running Tokio + Axum web server on the ESP32-S3.
 - [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - MQTT temperature logger running on ESP32-C3.
 - [gateway-rs](https://github.com/OpenIoTHub/gateway-rs) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet(like [frp](https://github.com/fatedier/frp) but running on ESP32).
 - [mch2022-rust-app](https://github.com/p2mate/mch2022-rust-app) - Example that shows a nice rust screensaver in MCH2022 badge.
