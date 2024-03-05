@@ -81,8 +81,10 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-idf-nmea-example](https://github.com/georgik/esp32-idf-nmea-example) - Example of integration ESP-IDF application with Rust code as component.
 - [esp32-s3-rust-axum-example](https://github.com/aedm/esp32-s3-rust-axum-example) - Example of running Tokio + Axum web server on the ESP32-S3.
 - [esp32c3-rust-std-temperature-logger](https://github.com/bjoernQ/esp32c3-rust-std-temperature-logger) - MQTT temperature logger running on ESP32-C3.
+- [esp32cam-rs](https://github.com/Kezii/esp32cam_rs) - Examples of Rust on ESP32-CAM, including a fully-featured Telegram bot capable of taking pictures.
 - [gateway-rs](https://github.com/OpenIoTHub/gateway-rs) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet(like [frp](https://github.com/fatedier/frp) but running on ESP32).
 - [mch2022-rust-app](https://github.com/p2mate/mch2022-rust-app) - Example that shows a nice rust screensaver in MCH2022 badge.
+- [M5Stack-Cardputer](https://github.com/Kezii/Rust-M5Stack-Cardputer) - Rust support for the Cardputer, including an interactive 3d graphics demo
 - [OFMon](https://github.com/arashsm79/OFMon) - Offline-first smart energy monitor using littlefs, Rust, ESP32, and Thingsboard. [See details](https://moslehian.com/posts/2022/3-ofmon/).
 - [OxidESPark](https://gitlab.com/cyril-marpaud/oxide-spark) - Rust library for the Rust ESP Board that uses the ESP-IDF framework and provides tools to easily build applications that interact with the physical world.
 - [rust-esp32-std-demo](https://github.com/ivmarkov/rust-esp32-std-demo) - A demo `std` binary crate for the ESP32[XX] and [ESP-IDF](https://github.com/espressif/esp-idf), which connects to WiFi, Ethernet, drives a small HTTP server and draws on a LED screen.
@@ -91,7 +93,6 @@ You can usually find community members (including some employees of Espressif) i
 - [self-balancing robot](https://github.com/tana/atom-motion-balance) - Self-balancing robot using Atom Matrix and Atom Motion. [See details](https://zenn-dev.translate.goog/tana_ash/articles/5a458538cd9204?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
 - [twatch-idf-rs](https://github.com/pyaillet/twatch-idf-rs) - Experimental firmware for the Lilygo T-Watch
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
-- [esp32cam-rs](https://github.com/Kezii/esp32cam_rs) - Examples of Rust on ESP32-CAM, including a fully-featured Telegram bot capable of taking pictures.
 
 ### `no_std`
 
