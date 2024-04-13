@@ -42,6 +42,8 @@ You can usually find community members (including some employees of Espressif) i
 - [JP] ESP32 で std な Rust 開発入門
   - [その 1 環境構築](https://lang-ship.com/blog/work/esp32-std-rust-1/) (Part 1: Building the environment)
   - [その 2 L チカ](https://lang-ship.com/blog/work/esp32-std-rust-2/) (Part 2: Blink an LED)
+- [EN] [Programming ESP32 with Rust: OTA firmware update](https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update)
+- [VI] [Lập trình ESP32 với Rust: cập nhật firmware OTA](https://quan.hoabinh.vn/post/2024/03/lap-trinh-esp32-voi-rust-cap-nhat-firmware-ota)
 
 ## Video Courses and Talks
 
