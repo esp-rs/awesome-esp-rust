@@ -111,6 +111,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-rust-lilygo-t5-epaper](https://github.com/georgik/esp32-rust-lilygo-t5-epaper) - ESP32 LilyGo T5 ePaper with WiFi
 - [esp32-buddy-rs](https://github.com/georgik/esp32-buddy-rs) - Bare metal Rust examples for ESP-Buddy board
 - [bradipograph](https://github.com/jneem/bradipograph/) - A sloth-like drawing robot.
+- [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal. 
 
 ## License
 
