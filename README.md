@@ -113,6 +113,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-buddy-rs](https://github.com/georgik/esp32-buddy-rs) - Bare metal Rust examples for ESP-Buddy board
 - [bradipograph](https://github.com/jneem/bradipograph/) - A sloth-like drawing robot.
 - [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal. 
+- [touch-n-drink](https://github.com/zargony/touch-n-drink) - Cashless payment device for cold drinks at a German aeroclub
 
 ## License
 
