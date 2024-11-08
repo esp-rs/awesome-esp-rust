@@ -95,10 +95,11 @@ You can usually find community members (including some employees of Espressif) i
 - [self-balancing robot](https://github.com/tana/atom-motion-balance) - Self-balancing robot using Atom Matrix and Atom Motion. [See details](https://zenn-dev.translate.goog/tana_ash/articles/5a458538cd9204?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp).
 - [twatch-idf-rs](https://github.com/pyaillet/twatch-idf-rs) - Experimental firmware for the Lilygo T-Watch
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
-- [esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) - A weather clock project designed based on the Slint UI framework. This is a attempt for the low-coupling cross-platform project based on the message communication mechanism, which supports running on ESP32-C3, WebBrowser(WASM), Desktop, and Android. 
+- [esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) - A weather clock project designed based on the Slint UI framework. This is a attempt for the low-coupling cross-platform project based on the message communication mechanism, which supports running on ESP32-C3, WebBrowser(WASM), Desktop, and Android.
 
 ### `no_std`
 
+- [Beginner Rust ESP32 development - Snake](https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/) - Snake game to run on an ESP32 development board with a connected OLED display and controlled with a joystick.
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
 - [esp32-conways-game-of-life-rs](https://github.com/georgik/esp32-conways-game-of-life-rs) - Conway's Game of Life in Bare metal Rust for ESP32-BOX using GDMA.
 - [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of simple game for ESP32.
@@ -112,7 +113,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-rust-lilygo-t5-epaper](https://github.com/georgik/esp32-rust-lilygo-t5-epaper) - ESP32 LilyGo T5 ePaper with WiFi
 - [esp32-buddy-rs](https://github.com/georgik/esp32-buddy-rs) - Bare metal Rust examples for ESP-Buddy board
 - [bradipograph](https://github.com/jneem/bradipograph/) - A sloth-like drawing robot.
-- [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal. 
+- [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal.
 - [touch-n-drink](https://github.com/zargony/touch-n-drink) - Cashless payment device for cold drinks at a German aeroclub
 
 ## License
