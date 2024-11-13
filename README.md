@@ -65,7 +65,7 @@ You can usually find community members (including some employees of Espressif) i
 ## Templates
 
 - [esp-idf-template](https://github.com/esp-rs/esp-idf-template) - A [cargo-generate](https://cargo-generate.github.io/cargo-generate/) template for projects using the Rust `std` library (via [ESP-IDF](https://github.com/espressif/esp-idf)).
-- [esp-template](https://github.com/esp-rs/esp-template) - A [cargo-generate](https://cargo-generate.github.io/cargo-generate/) template for bare metal projects (ie. `no_std`).
+- [esp-generate](https://github.com/esp-rs/esp-generate) - Template generation tool to create `no_std` applications targeting Espressif's chips.
 
 ## Open Hardware
 
