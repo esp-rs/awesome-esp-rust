@@ -99,6 +99,7 @@ You can usually find community members (including some employees of Espressif) i
 
 ### `no_std`
 
+- [esp32 wifi tank](https://jamesmcm.github.io/blog/esp32-wifi-tank/) - Building a Wifi-controlled car with Rust and ESP32
 - [Beginner Rust ESP32 development - Snake](https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/) - Snake game to run on an ESP32 development board with a connected OLED display and controlled with a joystick.
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
 - [esp32-conways-game-of-life-rs](https://github.com/georgik/esp32-conways-game-of-life-rs) - Conway's Game of Life in Bare metal Rust for ESP32-BOX using GDMA.
