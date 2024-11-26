@@ -44,6 +44,7 @@ You can usually find community members (including some employees of Espressif) i
   - [その 2 L チカ](https://lang-ship.com/blog/work/esp32-std-rust-2/) (Part 2: Blink an LED)
 - [EN] [Programming ESP32 with Rust: OTA firmware update](https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update)
 - [VI] [Lập trình ESP32 với Rust: cập nhật firmware OTA](https://quan.hoabinh.vn/post/2024/03/lap-trinh-esp32-voi-rust-cap-nhat-firmware-ota)
+- [EN] [Securely sending DHT22 sensor data from an ESP32 board to PostgreSQL](https://c410-f3r.github.io/thoughts/securely-sending-dht22-sensor-data-from-an-esp32-board-to-postgresql/)
 
 ## Video Courses and Talks
 
