@@ -105,6 +105,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
 - [esp32-conways-game-of-life-rs](https://github.com/georgik/esp32-conways-game-of-life-rs) - Conway's Game of Life in Bare metal Rust for ESP32-BOX using GDMA.
 - [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of simple game for ESP32.
+- [esp32-rex](https://github.com/ImplFerris/esp32-rex) - Dinosaur Game written in Rust for the ESP32 with an OLED display, using the Embassy framework.
 - [ps2keyboard-esp32c3](https://github.com/bjoernQ/ps2keyboard-esp32c3) - PS/2 keyboard implementation for ESP32-C3.
 - [esp32c3-ota-experiment](https://github.com/bjoernQ/esp32c3-ota-experiment) - ESP32-C3 Bare Metal OTA Experiment.
 - [SlimeVR-Rust/firmware](https://github.com/SlimeVR/SlimeVR-Rust/tree/main/firmware) - Async & no_std rust firmware for SlimeVR Full Body Tracking.
