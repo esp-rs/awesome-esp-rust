@@ -35,6 +35,7 @@ You can usually find community members (including some employees of Espressif) i
   - [Making a Dino Light with the ESP32 and WS2812 Pt. 2](https://nereux.blog/posts/esp32-ws2812-dino-light-2/)
 - [EN] [ESP32 with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/esp32c3-embedded-rust-hal) - Blog series about learning Rust at the HAL level with the ESP32-C3.
 - [EN] [A getting started guide to ESP32 no-std Rust development](https://nereux.blog/posts/getting-started-esp32-nostd/)
+- [EN] [impl Rust on ESP32](https://esp32.implrust.com/) - The book explores and explains various exciting projects using an ESP32.
 - [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
   - [(1) モデル化](https://zenn.dev/tana_ash/articles/balance-robot-modern-1) (Modelling)
   - [(2) 直立制御](https://zenn.dev/tana_ash/articles/balance-robot-modern-2) (Upright Control)
