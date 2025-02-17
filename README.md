@@ -46,7 +46,7 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [Programming ESP32 with Rust: OTA firmware update](https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update)
 - [VI] [Lập trình ESP32 với Rust: cập nhật firmware OTA](https://quan.hoabinh.vn/post/2024/03/lap-trinh-esp32-voi-rust-cap-nhat-firmware-ota)
 - [EN] [Securely sending DHT22 sensor data from an ESP32 board to PostgreSQL](https://c410-f3r.github.io/thoughts/securely-sending-dht22-sensor-data-from-an-esp32-board-to-postgresql/)
-
+- [EN] [Freenove ESP32 Tutorials in Rust](https://makuo12.github.io/Freenove-esp32-rust/) - Transforms traditional C and MicroPython-based Freenove lessons into idiomatic Rust code.
 ## Video Courses and Talks
 
 - [EN] [Rust on ESP32-C3](https://www.youtube.com/playlist?list=PLkch9g9DEE0Lkm1LqcD7pZNDmXEczOo-a)
