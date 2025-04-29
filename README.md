@@ -28,13 +28,12 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
 - [EN] [Embedded Rust (std) on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Embedded Rust (no_std) on Espressif](https://esp-rs.github.io/no_std-training/) - Training for Rust using `no_std` approach development on ESP32-C3.
-- [EN] [Espressif Developer Portal - tag: Rust](https://developer.espressif.com/tags/rust/) - Articles about Rust for ESP32. 
+- [EN] [Espressif Developer Portal - tag: Rust](https://developer.espressif.com/tags/rust/) - Articles about Rust for ESP32.
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
-- [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
 - [EN] Making a Dino Light with the ESP32 and WS2812
   - [Making a Dino Light with the ESP32 and WS2812](https://nereux.blog/posts/esp32-ws2812-dino-light/)
   - [Making a Dino Light with the ESP32 and WS2812 Pt. 2](https://nereux.blog/posts/esp32-ws2812-dino-light-2/)
-- [EN] [ESP32 with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/esp32c3-embedded-rust-hal) - Blog series about learning Rust at the HAL level with the ESP32-C3.
+- [EN] [ESP32 with Embedded Rust at the HAL](https://blog.theembeddedrustacean.com/series/esp32c3-embedded-rust-hal/) - Blog series about learning Rust at the HAL level with the ESP32-C3.
 - [EN] [A getting started guide to ESP32 no-std Rust development](https://nereux.blog/posts/getting-started-esp32-nostd/)
 - [EN] [impl Rust on ESP32](https://esp32.implrust.com/) - The book explores and explains various exciting projects using an ESP32.
 - [JP] 倒立振子ロボットを現代制御で動かしたい (I want to run an inverted pendulum robot with modern control)
