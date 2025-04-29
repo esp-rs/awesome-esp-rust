@@ -28,6 +28,7 @@ You can usually find community members (including some employees of Espressif) i
 - [EN] [The Rust on ESP Book](https://esp-rs.github.io/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
 - [EN] [Embedded Rust (std) on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Embedded Rust (no_std) on Espressif](https://esp-rs.github.io/no_std-training/) - Training for Rust using `no_std` approach development on ESP32-C3.
+- [EN] [Espressif Developer Portal - tag: Rust](https://developer.espressif.com/tags/rust/) - Articles about Rust for ESP32. 
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] [Bare-Metal Rust on ESP32: A brief overview](https://beta7.io/posts/bare-metal-rust-on-esp32/) - Overview of the `no_std` ecosystem on ESP32 chips.
 - [EN] Making a Dino Light with the ESP32 and WS2812
@@ -104,8 +105,8 @@ You can usually find community members (including some employees of Espressif) i
 - [esp32 wifi tank](https://jamesmcm.github.io/blog/esp32-wifi-tank/) - Building a Wifi-controlled car with Rust and ESP32
 - [Beginner Rust ESP32 development - Snake](https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/) - Snake game to run on an ESP32 development board with a connected OLED display and controlled with a joystick.
 - [esp32-rust-nostd-temperature-logger](https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger) - MQTT temperature logger running on ESP32.
-- [esp32-conways-game-of-life-rs](https://github.com/georgik/esp32-conways-game-of-life-rs) - Conway's Game of Life in Bare metal Rust for ESP32-BOX using GDMA.
-- [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of simple game for ESP32.
+- [esp32-conways-game-of-life-rs](https://github.com/georgik/esp32-conways-game-of-life-rs) - Conway's Game of Life in Bare metal Rust for different ESP32 based boards.
+- [esp32-spooky-maze-game](https://github.com/georgik/esp32-spooky-maze-game) - Bare metal Rust implementation of game for different ESP32 based boards using Bevy ECS no_std.
 - [esp32-rex](https://github.com/ImplFerris/esp32-rex) - Dinosaur Game written in Rust for the ESP32 with an OLED display, using the Embassy framework.
 - [ps2keyboard-esp32c3](https://github.com/bjoernQ/ps2keyboard-esp32c3) - PS/2 keyboard implementation for ESP32-C3.
 - [esp32c3-ota-experiment](https://github.com/bjoernQ/esp32c3-ota-experiment) - ESP32-C3 Bare Metal OTA Experiment.
