@@ -119,6 +119,7 @@ You can usually find community members (including some employees of Espressif) i
 - [bradipograph](https://github.com/jneem/bradipograph/) - A sloth-like drawing robot.
 - [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal.
 - [touch-n-drink](https://github.com/zargony/touch-n-drink) - Cashless payment device for cold drinks at a German aeroclub
+- [tetris](https://github.com/Hahihula/no_std_tetris) - simple tetris implementation on esp32-c3 and neopixels led strip
 
 ## License
 
