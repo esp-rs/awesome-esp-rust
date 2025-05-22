@@ -100,6 +100,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) - A weather clock project designed based on the Slint UI framework. This is a attempt for the low-coupling cross-platform project based on the message communication mechanism, which supports running on ESP32-C3, WebBrowser(WASM), Desktop, and Android.
 
 ### `no_std`
+
 - [esp32c3-devkit-rust - Embassy, BLE, Sensors example](https://github.com/jamessizeland/esp32c3-devkit-demo) - Medium complexity project demo interfacing with the peripherals available on this board, which include RGB LED, i2c IMU, Temperature & Humidity and BLE using TrouBLE and Embassy.
 - [esp32 wifi tank](https://jamesmcm.github.io/blog/esp32-wifi-tank/) - Building a Wifi-controlled car with Rust and ESP32
 - [Beginner Rust ESP32 development - Snake](https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/) - Snake game to run on an ESP32 development board with a connected OLED display and controlled with a joystick.
