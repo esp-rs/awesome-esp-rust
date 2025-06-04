@@ -121,6 +121,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp-examples](https://github.com/danclive/esp-examples) - Some examples of esp-hal.
 - [touch-n-drink](https://github.com/zargony/touch-n-drink) - Cashless payment device for cold drinks at a German aeroclub
 - [tetris](https://github.com/Hahihula/no_std_tetris) - simple tetris implementation on esp32-c3 and neopixels led strip
+- [esp-hub75](https://github.com/liebman/esp-hub75) - driver for Hub75 Matrix RGB LED Displays supporting ESP32, ESP32-S3, and ESP32-C6
 
 ## License
 
