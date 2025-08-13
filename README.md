@@ -123,6 +123,8 @@ You can usually find community members (including some employees of Espressif) i
 - [tetris](https://github.com/Hahihula/no_std_tetris) - simple tetris implementation on esp32-c3 and neopixels led strip
 - [esp-hub75](https://github.com/liebman/esp-hub75) - driver for Hub75 Matrix RGB LED Displays supporting ESP32, ESP32-S3, and ESP32-C6
 - [esp32-mipidsi-clock](https://github.com/mgrenonville/esp32-mipidsi-clock) - A Round LCD clock with slint UI + embassy, NTP time sync via WIFI, and SVG rendering on ESP32-C6
+- [esp-rust-spi-lcd-demo](https://github.com/KaidRommel/esp-rust-spi-lcd-demo) - A demonstration project for the ESP32-S3, showcasing a bouncing text animation on an SPI LCD.
+
 
 ## License
 
