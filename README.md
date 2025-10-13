@@ -124,7 +124,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp-hub75](https://github.com/liebman/esp-hub75) - driver for Hub75 Matrix RGB LED Displays supporting ESP32, ESP32-S3, and ESP32-C6
 - [esp32-mipidsi-clock](https://github.com/mgrenonville/esp32-mipidsi-clock) - A Round LCD clock with slint UI + embassy, NTP time sync via WIFI, and SVG rendering on ESP32-C6
 - [esp-rust-spi-lcd-demo](https://github.com/KaidRommel/esp-rust-spi-lcd-demo) - A demonstration project for the ESP32-S3, showcasing a bouncing text animation on an SPI LCD.
-- [Embedded Rust Programs with ESP32](https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust/blob/main/microcontrollers/esp32/esp32.md) - A curated list of Embedded Rust programs made specifically for the ESP32 WROOm SoC. Contains programs like sensor integration, TFT screen integration etc. 
+- [Embedded Rust Programs with ESP32](https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust) - A curated list of Embedded Rust programs for multiple Microcontrollers including the ESP32 WROOM DA Module. Contains programs like sensor integration, TFT screen integration etc. 
 
 
 ## License
