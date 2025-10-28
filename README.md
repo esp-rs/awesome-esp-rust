@@ -25,7 +25,7 @@ You can usually find community members (including some employees of Espressif) i
 
 ## Books, Blogs, and Training Materials
 
-- [EN] [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/introduction.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
+- [EN] [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/preface.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
 - [EN] [Embedded Rust (no_std) on Espressif](https://docs.espressif.com/projects/rust/no_std-training/) - Training for Rust using `no_std` approach development on ESP32-C3.
 - [EN] [Embedded Rust (std) on Espressif](https://docs.esp-rs.org/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Espressif Developer Portal - tag: Rust](https://developer.espressif.com/tags/rust/) - Articles about Rust for ESP32.
