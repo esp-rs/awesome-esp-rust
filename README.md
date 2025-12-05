@@ -62,7 +62,6 @@ You can usually find community members (including some employees of Espressif) i
 - [espflash](https://github.com/esp-rs/espflash) - Serial flasher utility for Espressif SoCs and modules based on [esptool](https://github.com/espressif/esptool).
 - [esp-web-flash-server](https://github.com/bjoernQ/esp-web-flash-server) - WebSocket server for flashing from Visual Studio Code Remote Containers using a web browser.
 - [wokwi-server](https://github.com/MabezDev/wokwi-server) - WebSocket server for running simulations in [Wokwi](https://wokwi.com/) from Visual Studio Code Remote Containers using a web browser.
-- [Wokwi Simulator](https://wokwi.com/rust) - Web browser simulator that supports Rust language on ESP32 chips.
 
 ## Templates
 
