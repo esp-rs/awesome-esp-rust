@@ -126,7 +126,7 @@ You can usually find community members (including some employees of Espressif) i
 - [esp-rust-spi-lcd-demo](https://github.com/KaidRommel/esp-rust-spi-lcd-demo) - A demonstration project for the ESP32-S3, showcasing a bouncing text animation on an SPI LCD.
 - [Embedded Rust Programs](https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust) - A curated list of Embedded Rust programs for multiple Microcontrollers including the ESP32 WROOM DA Module. Contains programs like sensor integration, TFT screen integration etc. 
 - [radioala-esp](https://github.com/MindsHub/radioala-esp) - a webradio streamer, based on embassy and esp-hal. It shows how to integrate with an external ppp-modem, have a stable tcp connection, spawn blocking task on second thread and reproduce music throught i2s. It also contain an alternative backend for the integrated-wifi.
-
+- [c6-touch-lcd-demo](https://github.com/Hahihula/ESP32-C6-Touch-LCD-Rust-Demo) -  demo for the Waveshare ESP32-C6-Touch-LCD-1.47 module showcasing display, touch, button, IMU and internal temperature reading and ferris on about page
 
 
 ## License
