@@ -75,7 +75,6 @@ You can usually find community members (including some employees of Espressif) i
 Reusable libraries and library collections built on top of `esp-hal`.
 
 * [esp-hal-community](https://github.com/esp-rs/esp-hal-community) - A collection of community-maintained crates for use alongside `esp-hal`.
-* [esp-hal-smartled](https://github.com/esp-rs/esp-hal-community/tree/main/esp-hal-smartled) - Smart LED support built on top of `esp-hal`.
 * [device-envoy](https://github.com/CarlKCarlK/device-envoy) - Embassy-based device abstractions for ESP32-C6 and ESP32-S3, including Wi-Fi provisioning, LED-panel graphics, and audio playback.
 
 ## Open Hardware
