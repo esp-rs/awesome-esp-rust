@@ -13,6 +13,7 @@
 - [Video Courses and Talks](#video-courses-and-talks)
 - [Tools](#tools)
 - [Templates](#templates)
+- [Libraries built on top of `esp-hal`](#libraries-built-on-top-of-esp-hal)
 - [Open Hardware](#open-hardware)
 - [Projects](#projects)
   - [`std`](#std)
@@ -68,6 +69,13 @@ You can usually find community members (including some employees of Espressif) i
 
 - [esp-idf-template](https://github.com/esp-rs/esp-idf-template) - A [cargo-generate](https://cargo-generate.github.io/cargo-generate/) template for projects using the Rust `std` library (via [ESP-IDF](https://github.com/espressif/esp-idf)).
 - [esp-generate](https://github.com/esp-rs/esp-generate) - Template generation tool to create `no_std` applications targeting Espressif's chips.
+
+## Libraries built on top of `esp-hal`
+
+Reusable libraries and library collections built on top of `esp-hal`.
+
+* [esp-hal-community](https://github.com/esp-rs/esp-hal-community) - A collection of community-maintained crates for use alongside `esp-hal`.
+* [device-envoy](https://github.com/CarlKCarlK/device-envoy) - Embassy-based device abstractions for ESP32-C6 and ESP32-S3, including Wi-Fi provisioning, LED-panel graphics, and audio playback.
 
 ## Open Hardware
 
