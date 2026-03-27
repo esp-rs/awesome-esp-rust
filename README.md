@@ -106,6 +106,7 @@ Reusable libraries and library collections built on top of `esp-hal`.
 - [twatch-idf-rs](https://github.com/pyaillet/twatch-idf-rs) - Experimental firmware for the Lilygo T-Watch
 - [wrover-experimental](https://github.com/JurajSadel/wrover-experimental) - Display line directions and departure times of public transport vehicles in Brno, CZ.
 - [esp-clock-rs](https://github.com/zhangzqs/esp-clock-rs) - A weather clock project designed based on the Slint UI framework. This is a attempt for the low-coupling cross-platform project based on the message communication mechanism, which supports running on ESP32-C3, WebBrowser(WASM), Desktop, and Android.
+- [esp-wifi-provisioning](https://github.com/Dwarf1er/esp-wifi-provisioning) - A crate that provides WiFi provisioning with a captive portal using a SoftAP.
 
 ### `no_std`
 
