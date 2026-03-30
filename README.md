@@ -136,6 +136,7 @@ Reusable libraries and library collections built on top of `esp-hal`.
 - [Embedded Rust Programs](https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust) - A curated list of Embedded Rust programs for multiple Microcontrollers including the ESP32 WROOM DA Module. Contains programs like sensor integration, TFT screen integration etc. 
 - [radioala-esp](https://github.com/MindsHub/radioala-esp) - a webradio streamer, based on embassy and esp-hal. It shows how to integrate with an external ppp-modem, have a stable tcp connection, spawn blocking task on second thread and reproduce music throught i2s. It also contain an alternative backend for the integrated-wifi.
 - [c6-touch-lcd-demo](https://github.com/Hahihula/ESP32-C6-Touch-LCD-Rust-Demo) -  demo for the Waveshare ESP32-C6-Touch-LCD-1.47 module showcasing display, touch, button, IMU and internal temperature reading and ferris on about page
+- [lilygo-epd47-rs](https://github.com/fridolin-koch/lilygo-epd47-rs) - A rust driver for the LilyGo T5 4.7 E-Paper Display, ported from the offical C driver. Intended be used with `esp-hal` and [embedded-graphics](https://docs.rs/embedded-graphics/latest/embedded_graphics/).
 
 
 ## License
