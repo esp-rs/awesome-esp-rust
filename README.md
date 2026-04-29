@@ -28,7 +28,7 @@ You can usually find community members (including some employees of Espressif) i
 
 - [EN] [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/preface.html) - The goal of this book is to provide a comprehensive guide on using the Rust programming language with Espressif SoCs and modules.
 - [EN] [Embedded Rust (no_std) on Espressif](https://docs.espressif.com/projects/rust/no_std-training/) - Training for Rust using `no_std` approach development on ESP32-C3.
-- [EN] [Embedded Rust (std) on Espressif](https://docs.esp-rs.org/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
+- [EN] [Embedded Rust (std) on Espressif](https://esp-rs.github.io/std-training/) - Training for Rust using `std` approach development on ESP32-C3 by [Ferrous Systems](https://ferrous-systems.com/training/).
 - [EN] [Espressif Developer Portal - tag: Rust](https://developer.espressif.com/tags/rust/) - Articles about Rust for ESP32.
 - [EN] [Scott Mabin - Rust on Espressif chips](https://mabez.dev/blog/posts/) - Quarterly updates about Rust on Espressif chips.
 - [EN] Making a Dino Light with the ESP32 and WS2812
