@@ -139,7 +139,7 @@ Reusable libraries and library collections built on top of `esp-hal`.
 - [lilygo-epd47-rs](https://github.com/fridolin-koch/lilygo-epd47-rs) - A rust driver for the LilyGo T5 4.7 E-Paper Display, ported from the offical C driver. Intended be used with `esp-hal` and [embedded-graphics](https://docs.rs/embedded-graphics/latest/embedded_graphics/).
 - [esp-rust-board-discovery](https://github.com/melastmohican/esp-rust-board-discovery) - Examples and tutorials for programming the Rust ESP Board (ESP32-C3-DevKit-RUST-1) using embedded Rust with the `esp-hal` hardware abstraction layer.
 - [m5dial-bsp](https://codeberg.org/antoinezen/m5dial-bsp) - BSP for [M5 Stack "M5 Dial"](https://docs.m5stack.com/en/core/M5Dial) board.
-
+- [esp32s3-midi](https://github.com/cjdell/esp32s3-midi) - Simulate USB MIDI using an ESP32-S3. Send notes via GPIO or WiFi via a WebSocket. Includes use of a captive portal to trigger the display of a web app.
 
 ## License
 
