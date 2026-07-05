@@ -87,6 +87,7 @@ Reusable libraries and library collections built on top of `esp-hal`.
 
 - [anemometer](https://github.com/taunusflieger/anemometer) - Rust based anemometer incl. OTA and GPS based calibration process.
 - [bluedroid](https://github.com/pulse-loop/bluedroid) - Safe wrapper for the Bluedroid Bluetooth stack.
+- [CO2-Sensor-Zigbee-Rust](https://github.com/ManfredFr/CO2-Sensor-Zigbee-Rust) - Zigbee CO2 sensor (ESP32-H2 + Senseair S8) integrated into Home Assistant via Zigbee2MQTT, driving Espressif's Zigbee SDK (esp-zigbee-lib) through `esp-idf-sys` FFI bindings.
 - [Dark Sky Meter](https://gitlab.com/scrobotics/optical-makerspace/dark-sky-meter-fw) - Open Hardware low-cost night sky sensor that measures light levels as well as several ambient parameters.
 - [dephy-esp32c3-rust-boilerplate](https://github.com/dephy-io/dephy-esp32c3-rust-boilerplate) - A `std` ESP32-C3 application boilerplate on production with `tokio` for `async` support and examples for IO, Wi-Fi provisioning, eFuse, GPIO, I2C, HTTP, BLE advertising, etc.
 - [esp-clock](https://github.com/playfulFence/esp-clock) - Clock with environment stats. [Wokwi project](https://wokwi.com/projects/357451677483992065)
