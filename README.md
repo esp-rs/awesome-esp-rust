@@ -142,6 +142,7 @@ Reusable libraries and library collections built on top of `esp-hal`.
 - [esp-rust-board-discovery](https://github.com/melastmohican/esp-rust-board-discovery) - Examples and tutorials for programming the Rust ESP Board (ESP32-C3-DevKit-RUST-1) using embedded Rust with the `esp-hal` hardware abstraction layer.
 - [m5dial-bsp](https://codeberg.org/antoinezen/m5dial-bsp) - BSP for [M5 Stack "M5 Dial"](https://docs.m5stack.com/en/core/M5Dial) board.
 - [esp32s3-midi](https://github.com/cjdell/esp32s3-midi) - Simulate USB MIDI using an ESP32-S3. Send notes via GPIO or WiFi via a WebSocket. Includes use of a captive portal to trigger the display of a web app. 
+- [vkey](https://github.com/vaulttec-dev/vaulttec-key) - USB hardware key on the Waveshare ESP32-C6-Zero for TOTP codes, passwords and project `.env` files. Secrets are AES-256-GCM under a key derived with Argon2id and bound to an eFuse HMAC key; Secure Boot v2, a button press for every secret, and a host CLI that flashes the board and talks to it over USB Serial/JTAG.
 
 ## License
 
